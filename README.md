@@ -26,12 +26,6 @@ A comprehensive web-based Property Management System designed to help landlords 
 
 ---
 
-## 📸 Screenshots
-
-> *Add some screenshots of your UI here to make your repo more visually appealing.*
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository**
